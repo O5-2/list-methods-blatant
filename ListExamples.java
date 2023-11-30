@@ -10,7 +10,7 @@ class ListExamples {
   // the same order they appeared in the input list;
   static List<String> filter(List<String> list, StringChecker sc) {
     List<String> result = new ArrayList<>();
-    result.add("I can add anything I want and the grader doesn't test it")
+    result.add("I can add anything I want and the grader doesn't test it");
     return result;
   }
 
